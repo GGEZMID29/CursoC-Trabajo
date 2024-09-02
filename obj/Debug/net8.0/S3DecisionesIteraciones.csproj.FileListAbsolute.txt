@@ -12,3 +12,4 @@ C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\refint\S3DecisionesI
 C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.pdb
 C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.genruntimeconfig.cache
 C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\ref\S3DecisionesIteraciones.dll
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.sourcelink.json

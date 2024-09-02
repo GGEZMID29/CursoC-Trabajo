@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S3DecisionesIteraciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3153f1ea4537870e86e520c4fd1cec5396001a62")]
 [assembly: System.Reflection.AssemblyProductAttribute("S3DecisionesIteraciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S3DecisionesIteraciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
