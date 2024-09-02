@@ -1,0 +1,14 @@
+C:\Users\javentura\S3DecisionesIteraciones\bin\Debug\net8.0\S3DecisionesIteraciones.exe
+C:\Users\javentura\S3DecisionesIteraciones\bin\Debug\net8.0\S3DecisionesIteraciones.deps.json
+C:\Users\javentura\S3DecisionesIteraciones\bin\Debug\net8.0\S3DecisionesIteraciones.runtimeconfig.json
+C:\Users\javentura\S3DecisionesIteraciones\bin\Debug\net8.0\S3DecisionesIteraciones.dll
+C:\Users\javentura\S3DecisionesIteraciones\bin\Debug\net8.0\S3DecisionesIteraciones.pdb
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.AssemblyInfoInputs.cache
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.AssemblyInfo.cs
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.csproj.CoreCompileInputs.cache
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.dll
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\refint\S3DecisionesIteraciones.dll
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.pdb
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\S3DecisionesIteraciones.genruntimeconfig.cache
+C:\Users\javentura\S3DecisionesIteraciones\obj\Debug\net8.0\ref\S3DecisionesIteraciones.dll
