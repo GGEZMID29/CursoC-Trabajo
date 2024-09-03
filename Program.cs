@@ -332,7 +332,7 @@ for (int i = 1; i <= 10; i++)
 System.Console.WriteLine("Fin");
 */
 
-/*Bucles infinitos*/
+/*Bucles infinitos
 
 // while (true)
 // {
@@ -380,4 +380,122 @@ while (true)
 }
 
 Console.WriteLine("Adiós!");
+*/
 
+/*Practica de la S3
+
+//1er ejercicio.
+
+// System.Console.WriteLine(@"Bienvenido!
+// Este programa determinará si el número es positivo, negativo o cero ");
+
+// System.Console.Write("Dígite el número entero que desea verificar: ");
+// string? input = Console.ReadLine();
+
+// if (string.IsNullOrEmpty(input))
+// {
+//     System.Console.WriteLine("Entrada no válida. Por favor, ingresa un número.");
+//     return;
+// }
+
+// if (int.TryParse(input, out int num))
+// {
+//     // Determina si el número es positivo, negativo o cero
+//     if (num > 0)
+//     {
+//         System.Console.WriteLine("El número es positivo!");
+//         System.Console.WriteLine("Números desde 1 hasta " + num + ":");
+
+//         for (int i = 1; i <= num; i++)
+//         {
+//             System.Console.WriteLine(i);
+//         }
+//     }
+//     else if (num < 0)
+//     {
+//         System.Console.WriteLine("El número es negativo!");
+//         System.Console.WriteLine("Números desde " + num + " hasta -1:");
+
+//         int i = num;
+//         while (i < 0)
+//         {
+//             System.Console.WriteLine(i);
+//             i++;
+//         }
+//     }
+//     else
+//     {
+//         System.Console.WriteLine("El número es cero!");
+//     }
+// }
+// else
+// {
+//     System.Console.WriteLine("Entrada no válida. Por favor, ingresa un número entero.");
+// }
+
+//2do ejercicio.
+
+// System.Console.WriteLine(@"Bienvenido!
+// Hoy veremos si usted es mayor de edad.");
+
+// System.Console.Write("Ingrese su edad: ");
+// string? input = Console.ReadLine();
+// int age;
+
+// if (int.TryParse(input, out age))
+// {
+//     if (age >= 18)
+//     {
+//         System.Console.WriteLine("Eres mayor de edad! Felicidades puedes beber como un perro.");
+//     }
+// }
+// else if (age < 18)
+// {
+//     System.Console.WriteLine("Eres menor de edad ve a hacer pipí y a dormir.");
+// }
+// else
+// {
+//     System.Console.WriteLine("Entrada no válida. Por favor, ingrese un número.");
+// }
+
+//3er ejercicio. 
+
+// System.Console.WriteLine(@"Bienvenido a la tabla de multiplicar");
+// System.Console.Write("Ingrese el número que desea múltiplicar: ");
+// int number = int.Parse(Console.ReadLine());
+
+// for (int i = 1; i <= 12; i++){
+//     int result = number * i;
+//     System.Console.WriteLine(@$"{number} * {i} = {result}");
+// }
+
+//4to ejercicio 
+
+System.Console.WriteLine("Vamos a verificar el tipo de triángulo!");
+
+System.Console.Write("Introduzca el lado 1: ");
+double lado1;
+lado1 = int.Parse(System.Console.ReadLine());
+
+System.Console.Write("Introduzca el lado 2: ");
+double lado2;
+lado2 = int.Parse(System.Console.ReadLine());
+
+System.Console.Write("Introduzca el lado 3: ");
+double lado3;
+lado3 = int.Parse(System.Console.ReadLine());
+
+Console.WriteLine($"Los lados son {lado1},{lado2} y {lado3}");
+
+if(lado1 == lado2 && lado2 == lado3){
+    System.Console.WriteLine("El triángulo es equilátero");
+}
+else if (lado1 == lado2 || lado1 == lado3 || lado2 == lado3)
+{
+    Console.WriteLine("El triángulo es isósceles");
+}
+else
+{
+    Console.WriteLine("El triángulo es escaleno");
+}
+*/
